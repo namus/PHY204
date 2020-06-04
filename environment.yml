@@ -1,0 +1,9 @@
+name: suman
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - numba
+  - plotly
